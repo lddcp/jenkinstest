@@ -1,6 +1,6 @@
 # test
-from datetime import now
-datetimenow = datetime.now()
+from datetime import datetime
+now = datetime.now()
 mm = str(now.month)
 dd = str(now.day)
 yyyy = str(now.year)
